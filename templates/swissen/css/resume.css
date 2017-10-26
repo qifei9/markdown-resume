@@ -10,11 +10,11 @@
 }
 
 body {
-    font-family: 'Helvetica Neue', 'Helvetica', Arial, serif;
+    font-family: 'Neue Haas Unica Pro Light', 'Noto Sans CJK SC Light';
     color: #444;
 }
 h1, h2, h3, h4, ul dl dt {
-    font-family: 'Helvetica Neue Light', 'Helvetica', Arial, serif;
+    font-family: 'Arial Nova', 'Noto Sans CJK SC';
 }
 
 h1:before{
@@ -93,7 +93,7 @@ h3 {
     margin: 0;
     padding: 0 0 .5em;
     font-size: 150%;
-    font-weight: bold;
+    font-weight: 500;
 }
 
 h3+p {
